@@ -1,0 +1,1 @@
+package com.example.mysurahappclass Model (var nameSurah : String, var numberSurah : String, var arabicName: String)
